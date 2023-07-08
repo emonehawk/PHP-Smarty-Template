@@ -1,0 +1,4 @@
+<?php
+$brand['lang'] = 'eng';
+
+?>
